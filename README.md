@@ -44,7 +44,7 @@
 
   <div class="card">
     <h2>인벤 - 오픈이슈갤러리</h2>
-    <a class="link" href="https://www.inven.co.kr/board/opinion/5389">오픈이슈갤 바로가기</a>
+    <a class="link" href="https://www.inven.co.kr/board/webzine/2097?iskin=black">오픈이슈갤 바로가기</a>
   </div>
 
   <div class="card">
