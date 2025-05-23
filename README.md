@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>오늘의 커뮤니티 모음</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #f4f4f4;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    .card {
-      background: #fff;
-      padding: 15px;
-      margin-bottom: 15px;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    }
-    .card h2 {
-      margin-top: 0;
-    }
-    .link {
-      display: inline-block;
-      padding: 10px 15px;
-      background: #0077cc;
-      color: white;
-      text-decoration: none;
-      border-radius: 6px;
-      transition: background 0.2s;
-    }
-    .link:hover {
-      background: #005fa3;
-    }
-  </style>
-</head>
+
 <body>
   <h1>📰 오늘의 커뮤니티 페이지</h1>
 
